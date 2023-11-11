@@ -10,7 +10,7 @@ Welcome to the Algorithmic Trading & Machine Learning Fundamentals course, now t
 
 ## Course Content
 
-- **Module 1: Unsupervised Learning Strategy** - Adapt S&P 500 strategies to crypto markets, learning features, indicators, and portfolio optimization for digital assets.
+- **Module 1: Unsupervised Learning Strategy** - Adapt S&P 500 strategies to crypto markets by taking the top x number of crypto currencies ranked on coinmarketcap, learning features, indicators, and portfolio optimization for digital assets.
 - **Module 2: Social Sentiment Strategy** - Use sentiment analysis on social media platforms to gauge market sentiment and apply these insights to crypto trading.
 - **Module 3: Intraday Strategy with GAR Model** - Tailor the GAR model approach for the volatility and dynamics of the crypto market, enhancing your intraday trading signals.
 
